@@ -8,7 +8,7 @@ Print the pattern
  */
  
 
-/*Approach-1
+/*Approach 1
 Enter limit= 5 to get the pattern*/
 
 import java.util.*;
@@ -32,7 +32,7 @@ public class PrintSeries {
     }
 }
 
-/*Approach-2 Tc=O(N)
+/*Approach 2 Tc=O(N)
 
 Enter limit = 15 to get the pattern
  */
