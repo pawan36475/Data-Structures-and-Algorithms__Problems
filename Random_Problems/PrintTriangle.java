@@ -7,7 +7,7 @@ Example-
 */
 
 
-//Approach -1
+//Approach 1
 
 import java.util.*;
 
@@ -28,7 +28,7 @@ class PrintTriangle {
     }
 }
 
-//Approach -2 TC=O(N^2)
+//Approach 2 TC=O(N^2)
 
 import java.util.*;
 
@@ -50,7 +50,7 @@ class PrintTriangle {
     }
 }
 
-//Approach - 3
+//Approach 3
 
 import java.util.*;
 
